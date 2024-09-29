@@ -27,4 +27,7 @@ function scr_Movement(){
 	x += moveX
 	y += moveY
 	
+	x = clamp(x, 22, 122)
+	y = clamp(y, 16, 119)
+	
 }

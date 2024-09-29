@@ -1,5 +1,5 @@
-sprite_index = projectile_gSphere
+sprite_index = oPlayer.bulletSprite
 
-SPD = 2
+SPD = oPlayer.bulletSPD
 
 alarm[0] = 120
