@@ -7,4 +7,6 @@ function scr_KeyBinds(){
 	
 	global.moveSlower = vk_shift
 	
+	global.KeyShoot = vk_space
+	
 }

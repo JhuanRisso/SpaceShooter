@@ -1,8 +1,5 @@
 function scr_Movement(){
 	
-	var xInput = 0
-	var yInput = 0
-	
 	var SPD = 0
 	
 	xInput = keyboard_check(global.moveRight) - keyboard_check(global.moveLeft)
